@@ -1,0 +1,7 @@
+untuk local bisa ketik
+php artisan serve
+maka akan menghasilkan http://127.0.0.1:8000/
+
+Akun yang bisa dipakai
+email : admin@gmail.com
+password : password
